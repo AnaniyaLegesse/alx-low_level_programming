@@ -1,1 +1,1 @@
-successeful commit
+C - Variadic functions
